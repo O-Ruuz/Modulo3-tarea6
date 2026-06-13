@@ -1,0 +1,8 @@
+R/ Es importante que las plataformas puedan recibir de manera estructurada
+los reportes enviados por los ciudadanos porque, además de conservar el orden de
+dicha información, a su vez permite que los datos recopilados sean claros y
+más faciles de gestionar y/o clasificar dependiendo de sus categorías. Como 
+consecuencia, se reducen los posibles errores y se fortalece la comunicación 
+entre ciudadanos e instituciones o autaridades. Estas últimas, al tener acceso
+a los reportes estructurados, pueden responder más rápido y eficientemente a las
+necesidades de las comunidades.
